@@ -4,7 +4,7 @@
 
 </div>
 
-  # ☢️𝐂𝐘𝐁𝐄𝐑 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓
+  # ☢️ POOKIE 𝐆𝐎𝐀𝐓 𝐁𝐎𝐓
   
   [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=25&pause=1000&color=00F0FF&center=true&vCenter=true&width=435&lines=MESSENGER+MULTI-DEVICE+BOT;ISLAMIC+GOAT+BOT+;POWERFUL+ADMIN+TOOLS;24%2F7+ACTIVE+SERVICE;This+repository+is;controlled+by+Ullash.)](https://git.io/typing-svg)
 
